@@ -1,0 +1,19 @@
+{
+  "name": "mirror-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmerci1/Mirror-Server.git"
+  },
+  "author": "Daniel Mercia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmerci1/Mirror-Server/issues"
+  },
+  "homepage": "https://github.com/dmerci1/Mirror-Server#readme"
+}
